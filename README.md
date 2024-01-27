@@ -8,5 +8,3 @@ This repository is created to show the PowerBI Dashboards I have created.
 This dashboard is a collected information of Sales Revenue from a semiconductor company, AT&S. The raw data is available publicly on the following website https://ats.net/en/investors/financial-reports-presentation/
 
 The purpose of creating the dashboard is to show the trend of the company's revenue from the year 2017 up to 2022.
-
-<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2I5NWIwZGEtYTk1Yy00NTRkLTllZWMtZjIxMTY5ZDY3ZDA1IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
