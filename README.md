@@ -12,3 +12,8 @@ The purpose of creating the dashboard is to study the trend of the company's rev
 Based on the collected information it could be observed that:
 * EBIT (Earnings Before Interest and Taxes) dipped at 2019, which steadily recovered by 2022. This could be attributed to COVID-19 pandemic that greatly affected the semiconductor industry globally.
 * Operating Free Cash Flow is highest on 2022 from selected year (2017-2022). It could be due to the effect of previous year after COVID-19 and some other investments made by that year.
+***
+### US Medical Insurance - Data analysis (Jupyter Notebook)
+
+This is to show the data analysis done in Jupyter notebook on the analysis of US Medical insurance patients.
+***
