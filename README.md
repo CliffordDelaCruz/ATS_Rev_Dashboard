@@ -15,5 +15,5 @@ Based on the collected information it could be observed that:
 ***
 ### US Medical Insurance - Data analysis (Jupyter Notebook)
 
-This is to show the data analysis done in Jupyter notebook on the analysis of US Medical insurance patients.
+This is to show the data analysis of US Medical insurance patients written in Jupyter notebook.
 ***
