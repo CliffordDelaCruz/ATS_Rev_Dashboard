@@ -15,7 +15,7 @@ Based on the collected information it could be observed that:
 ***
 ### US Medical Insurance - Data analysis (Jupyter Notebook)
 
-This is to show the data analysis of US Medical insurance patients written in Jupyter notebook.\n
-reference: python_US_Medical_Insurance_analysis/python-portfolio-project-starter-files/us-medical-insurance-costs.ipynb\n
+This is to show the data analysis of US Medical insurance patients written in Jupyter notebook.  
+reference: python_US_Medical_Insurance_analysis/python-portfolio-project-starter-files/us-medical-insurance-costs.ipynb  
 dataset reference: python_US_Medical_Insurance_analysis/python-portfolio-project-starter-files/insurance.csv
 ***
