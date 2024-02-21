@@ -1,5 +1,19 @@
 # Power BI Dashboards
 This repository is created to show the PowerBI Dashboards I have created.
+***
+### AdventureWorks
+### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=2b3bfbba-4a22-44f2-8791-2b6a82cacb61&autoAuth=true&ctid=5548aca8-9ba6-49cc-8253-00c38168d3a3
+
+## Problem Statement
+
+This dashboard is shows the sales data of a fictional company, AdventureWorks, a bicycle shop company.
+The purpose of creating the dashboard is to create meaningful and insight-driven visuals for the following data:
+1. Executive Summary
+2. Map (Showing Orders in Countries sold)
+3. Product Detail
+4. Customer Detail
+***
+
 ### AT&amp;S Revenue Dashboard (2017-2022)
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiY2I5NWIwZGEtYTk1Yy00NTRkLTllZWMtZjIxMTY5ZDY3ZDA1IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D
 
