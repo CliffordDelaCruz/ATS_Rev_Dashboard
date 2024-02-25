@@ -12,6 +12,7 @@ The purpose of creating the dashboard is to create meaningful and insight-driven
 2. Product Detail - shows the detail information of the drilled-down product from executive screen (sales, profit, return)
 3. Customer Detail - shows more information about customer, getting information about top customers that drives the revenue to AdventureWorks
 4. Map (Showing the continent / countries where the bikes were sold)
+![image](https://github.com/CliffordDelaCruz/PowerBI_Dashboards/assets/123575331/c25c471a-5518-4a43-8208-36631be983c6)
 ***
 
 ### AT&amp;S Revenue Dashboard (2017-2022)
