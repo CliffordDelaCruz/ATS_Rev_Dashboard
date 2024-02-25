@@ -2,16 +2,16 @@
 This repository is created to show the PowerBI Dashboards I have created.
 ***
 ### AdventureWorks
-### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=2b3bfbba-4a22-44f2-8791-2b6a82cacb61&autoAuth=true&ctid=5548aca8-9ba6-49cc-8253-00c38168d3a3
+### Dashboard Link : [https://app.powerbi.com/reportEmbed?reportId=2b3bfbba-4a22-44f2-8791-2b6a82cacb61&autoAuth=true&ctid=5548aca8-9ba6-49cc-8253-00c38168d3a3](https://app.powerbi.com/view?r=eyJrIjoiZDk3ZWI1OTktMGMzZC00YWI2LTk2MTktZTI1MGJmNWYyOGY0IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D)
 
 ## Problem Statement
 
 This dashboard is shows the sales data of a fictional company, AdventureWorks, a bicycle shop company.
 The purpose of creating the dashboard is to create meaningful and insight-driven visuals for the following data:
-1. Executive Summary
-2. Map (Showing Orders in Countries sold)
-3. Product Detail
-4. Customer Detail
+1. Executive Summary - shows the main dashboard viewed by executives. It displays Revenue trend, Top 3 Product type, Top 10 Products with highest Orders and Monthly KPI cards for Revenue, Orders and Returns
+2. Product Detail - shows the detail information of the drilled-down product from executive screen (sales, profit, return)
+3. Customer Detail - shows more information about customer, getting information about top customers that drives the revenue to AdventureWorks
+4. Map (Showing the continent / countries where the bikes were sold)
 ***
 
 ### AT&amp;S Revenue Dashboard (2017-2022)
