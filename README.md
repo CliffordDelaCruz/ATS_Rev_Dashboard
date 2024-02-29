@@ -2,7 +2,7 @@
 This repository is created to show the PowerBI Dashboards I have created.
 ***
 ### AdventureWorks
-### Dashboard Link : [https://app.powerbi.com/reportEmbed?reportId=2b3bfbba-4a22-44f2-8791-2b6a82cacb61&autoAuth=true&ctid=5548aca8-9ba6-49cc-8253-00c38168d3a3](https://app.powerbi.com/view?r=eyJrIjoiZDk3ZWI1OTktMGMzZC00YWI2LTk2MTktZTI1MGJmNWYyOGY0IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D)
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZDk3ZWI1OTktMGMzZC00YWI2LTk2MTktZTI1MGJmNWYyOGY0IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true&pageName=ReportSection
 
 ## Problem Statement
 
