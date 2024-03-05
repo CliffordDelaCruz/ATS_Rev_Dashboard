@@ -17,6 +17,13 @@ The purpose of creating the dashboard is to create meaningful and insight-driven
 ![image](https://github.com/CliffordDelaCruz/PowerBI_Dashboards/assets/123575331/edc8da2b-2505-4316-8cf8-0ffdd3959f9e)
 ![image](https://github.com/CliffordDelaCruz/PowerBI_Dashboards/assets/123575331/69a5dcab-8666-44fe-b634-a62fb28be9c3)
 ![image](https://github.com/CliffordDelaCruz/PowerBI_Dashboards/assets/123575331/c25c471a-5518-4a43-8208-36631be983c6)
+
+#### Skills used:
+1. Data Loading
+2. Data Cleaning
+3. Data Modeling
+4. Data Visualization
+5. Exploratory Data Analysis
 ***
 ### Maven Market
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZWZiMTM2NGEtNzdjYi00NGVmLTgwODAtZmY3Zjc1MTM3NGQ2IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D
@@ -34,6 +41,12 @@ It shows the following information:
    
 ![image](https://github.com/CliffordDelaCruz/PowerBI_Dashboards/assets/123575331/ccb9a266-c118-47e3-8be1-7359a0c7f469)
 
+#### Skills used:
+1. Data Loading
+2. Data Cleaning
+3. Data Modeling
+4. Data Visualization
+5. Exploratory Data Analysis
 ***
 ### AT&amp;S Revenue Dashboard (2017-2022)
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiY2I5NWIwZGEtYTk1Yy00NTRkLTllZWMtZjIxMTY5ZDY3ZDA1IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D
@@ -47,6 +60,11 @@ The purpose of creating the dashboard is to study the trend of the company's rev
 Based on the collected information it could be observed that:
 * EBIT (Earnings Before Interest and Taxes) dipped at 2019, which steadily recovered by 2022. This could be attributed to COVID-19 pandemic that greatly affected the semiconductor industry globally.
 * Operating Free Cash Flow is highest on 2022 from selected year (2017-2022). It could be due to the effect of previous year after COVID-19 and some other investments made by that year.
+
+#### Skills used:
+1. Data Loading
+2. Data Visualization
+3. Exploratory Data Analysis
 ***
 ### US Medical Insurance - Data analysis (Jupyter Notebook)
 
