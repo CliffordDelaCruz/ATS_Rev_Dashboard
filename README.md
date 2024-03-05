@@ -18,7 +18,23 @@ The purpose of creating the dashboard is to create meaningful and insight-driven
 ![image](https://github.com/CliffordDelaCruz/PowerBI_Dashboards/assets/123575331/69a5dcab-8666-44fe-b634-a62fb28be9c3)
 ![image](https://github.com/CliffordDelaCruz/PowerBI_Dashboards/assets/123575331/c25c471a-5518-4a43-8208-36631be983c6)
 ***
+### Maven Market
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZWZiMTM2NGEtNzdjYi00NGVmLTgwODAtZmY3Zjc1MTM3NGQ2IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D
 
+## Problem Statement
+
+This dashboard shows the overview sales, profit and returns of a fictional company, Maven Market.
+The data is dated 1997 and 1998, which covers the 3 countries: Canada, Mexico and United States.
+It shows the following information:
+1. Top 30 Products
+2. Map of different store locations
+3. KPI card for Transactions, Profit and Returns
+4. Tree Map to navigate the store and drill down by location
+5. Gauge to display the Revenue vs. Target
+   
+![image](https://github.com/CliffordDelaCruz/PowerBI_Dashboards/assets/123575331/ccb9a266-c118-47e3-8be1-7359a0c7f469)
+
+***
 ### AT&amp;S Revenue Dashboard (2017-2022)
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiY2I5NWIwZGEtYTk1Yy00NTRkLTllZWMtZjIxMTY5ZDY3ZDA1IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D
 
