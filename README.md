@@ -71,6 +71,14 @@ Based on the collected information it could be observed that:
 3. Exploratory Data Analysis
 ***
 # Python - Jupyter Notebooks
+### Page Visits Funnel - Data Analysis (Jupyter Notebook)
+link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/blob/main/Page_Visits_Funnel_Project/Page_Visits_Funnel_Project/Page_Funnel_Visits.ipynb
+
+This is to show the analysis done on different datasets containing different stages of t-shirt purchase which were combined together to perform analysis
+#### Skills used:
+1. Python
+2. Pandas library
+***
 ### US Medical Insurance - Data analysis (Jupyter Notebook)
 link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/blob/main/python_US_Medical_Insurance_analysis/python-portfolio-project-starter-files/us-medical-insurance-costs.ipynb
 
@@ -80,11 +88,3 @@ This is to show the data analysis of US Medical insurance patients written in Ju
 1. Python
 2. CSV library
 ***
-### Page Visits Funnel - Data Analysis (Jupyter Notebook)
-link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/blob/main/Page_Visits_Funnel_Project/Page_Visits_Funnel_Project/Page_Funnel_Visits.ipynb
-
-This is to show the analysis done on different datasets containing different stages of t-shirt purchase which were combined together to perform analysis
-#### Skills used:
-1. Python
-2. Pandas library
-
