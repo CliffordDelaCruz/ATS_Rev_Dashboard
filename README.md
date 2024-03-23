@@ -1,4 +1,8 @@
-# Power BI Dashboards
+# Power BI Service
+### Guide: Accessing Oracle DB table using Power BI via Dataflow
+link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/blob/main/How%20to%20access%20Oracle%20DB%20from%20PowerBI_generic.pdf
+
+# Power BI Dashboards and Reports
 This repository is created to show the PowerBI Dashboards I have created.
 ***
 ### AdventureWorks
@@ -72,3 +76,4 @@ This is to show the data analysis of US Medical insurance patients written in Ju
 **reference:** python_US_Medical_Insurance_analysis/python-portfolio-project-starter-files/us-medical-insurance-costs.ipynb  
 **dataset reference:** python_US_Medical_Insurance_analysis/python-portfolio-project-starter-files/insurance.csv
 ***
+
