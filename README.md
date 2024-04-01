@@ -5,12 +5,25 @@ link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/blob/main
 # Power BI Dashboards and Reports
 This repository is created to show the PowerBI Dashboards I have created.
 ***
+### Maven Inspections
+### Dashboard Link: https://app.powerbi.com/groups/fa2d892a-1532-45ac-a1d2-4e6b496bd8f4/dashboards/4d88f3eb-6f85-432d-9f01-e33cdc158ffa?ctid=5548aca8-9ba6-49cc-8253-00c38168d3a3&pbi_source=linkShare
+### Report Link: https://app.powerbi.com/view?r=eyJrIjoiNGM0MmNjYzMtZDZkYy00MzFkLWJlNjEtZDYyMjEyY2IwZGM2IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D
+
+This dashboard shows the violations of chains of restaurants in the state of Los Angeles, California.
+![image](https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/assets/123575331/18e42d55-6e2a-4bcb-a4d4-d09f81bd7140)
+![image](https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/assets/123575331/655f4bf2-053a-4e20-8d28-7726ec06ccb1)
+
+#### Skills used:
+1. Power BI Service
+2. Sharepoint
+3. Data Visualization
+***
 ### AdventureWorks
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZDk3ZWI1OTktMGMzZC00YWI2LTk2MTktZTI1MGJmNWYyOGY0IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D&pageName=ReportSection
+### Report Link : https://app.powerbi.com/view?r=eyJrIjoiZDk3ZWI1OTktMGMzZC00YWI2LTk2MTktZTI1MGJmNWYyOGY0IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D&pageName=ReportSection
 
 ## Problem Statement
 
-This dashboard is shows the sales data of a fictional company, AdventureWorks, a bicycle shop company.
+This dashboard shows the sales data of a fictional company, AdventureWorks, a bicycle shop company.
 The purpose of creating the dashboard is to create meaningful and insight-driven visuals for the following data:
 1. Executive Summary - shows the main dashboard viewed by executives. It displays Revenue trend, Top 3 Product type, Top 10 Products with highest Orders and Monthly KPI cards for Revenue, Orders and Returns
 2. Product Detail - shows the detail information of the drilled-down product from executive screen (sales, profit, return)
@@ -30,7 +43,7 @@ The purpose of creating the dashboard is to create meaningful and insight-driven
 5. Exploratory Data Analysis
 ***
 ### Maven Market
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZWZiMTM2NGEtNzdjYi00NGVmLTgwODAtZmY3Zjc1MTM3NGQ2IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D
+### Report Link : https://app.powerbi.com/view?r=eyJrIjoiZWZiMTM2NGEtNzdjYi00NGVmLTgwODAtZmY3Zjc1MTM3NGQ2IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D
 
 ## Problem Statement
 
@@ -53,7 +66,7 @@ It shows the following information:
 5. Exploratory Data Analysis
 ***
 ### AT&amp;S Revenue Dashboard (2017-2022)
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiY2I5NWIwZGEtYTk1Yy00NTRkLTllZWMtZjIxMTY5ZDY3ZDA1IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D
+### Report Link : https://app.powerbi.com/view?r=eyJrIjoiY2I5NWIwZGEtYTk1Yy00NTRkLTllZWMtZjIxMTY5ZDY3ZDA1IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D
 
 ## Problem Statement
 
