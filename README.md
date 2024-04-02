@@ -84,7 +84,7 @@ Based on the collected information it could be observed that:
 3. Exploratory Data Analysis
 ***
 # Python - Jupyter Notebooks
-### Jeopardy - Datay Analysis (Jupyter Notebook)
+### Jeopardy - Data Analysis (Jupyter Notebook)
 link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/blob/main/Jeopardy.zip
 
 This is to show the analysis done on Jeopary dataset, containing different questions asked in the game Jeopardy.
