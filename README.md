@@ -14,7 +14,8 @@ This dashboard shows the violations of chains of restaurants in the state of Los
 ![image](https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/assets/123575331/655f4bf2-053a-4e20-8d28-7726ec06ccb1)
 
 Power BI Mobile App:
-![Screenshot_20240406_194127_Power BI](https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/assets/123575331/e801418f-d98b-4b84-838c-906f9aae8981)
+![Screenshot_20240406_194127_Power BI](https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/assets/123575331/4d1d0b18-6b13-4133-93df-0f493e61ebed)
+
 
 #### Skills used:
 
