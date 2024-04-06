@@ -2,6 +2,12 @@
 ### Guide: Accessing Oracle DB table using Power BI via Dataflow
 link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/blob/main/How%20to%20access%20Oracle%20DB%20from%20PowerBI_generic.pdf
 
+Skills used:
+1. Power BI Service
+2. Gateway Setup
+3. Dataflow
+4. Power Query
+   
 # Power BI Dashboards and Reports
 This repository is created to show the PowerBI Dashboards I have created.
 ***
