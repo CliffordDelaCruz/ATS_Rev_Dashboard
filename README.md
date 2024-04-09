@@ -7,7 +7,14 @@ Skills used:
 2. Gateway Setup
 3. Dataflow
 4. Power Query
-   
+
+### Guide: Creating a Row-Level Security in Power BI Reports
+link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/blob/main/Creating%20a%20Row-Level%20Security%20in%20Power%20BI%20reports.pdf
+
+Skills used:
+1. Power BI Desktop
+2. Power BI Service
+
 # Power BI Dashboards and Reports
 This repository is created to show the PowerBI Dashboards I have created.
 ***
