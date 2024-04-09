@@ -22,7 +22,7 @@ This repository is created to show the PowerBI Dashboards I have created.
 ### Dashboard Link: https://app.powerbi.com/groups/fa2d892a-1532-45ac-a1d2-4e6b496bd8f4/dashboards/4d88f3eb-6f85-432d-9f01-e33cdc158ffa?ctid=5548aca8-9ba6-49cc-8253-00c38168d3a3&pbi_source=linkShare
 ### Report Link: https://app.powerbi.com/view?r=eyJrIjoiNGM0MmNjYzMtZDZkYy00MzFkLWJlNjEtZDYyMjEyY2IwZGM2IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D
 
-This dashboard shows the violations of chains of restaurants in the state of Los Angeles, California.
+This dashboard shows the violations of chains of restaurants in the state of California.
 ![image](https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/assets/123575331/18e42d55-6e2a-4bcb-a4d4-d09f81bd7140)
 ![image](https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/assets/123575331/655f4bf2-053a-4e20-8d28-7726ec06ccb1)
 
